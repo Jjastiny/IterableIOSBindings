@@ -1,11 +1,14 @@
 ## Synopsis
 
 This is the iOS xamarin binding library for Iterable SDK.
-At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
-
 ## Code Example
 
+<code>IterableAPI.SharedInstanceWithApiKey("apiKey", "email", new NSDictionary());</code>
+<code>IterableAPI.SharedInstanceWithApiKey("apiKey", new NSDictionary(), "userId");</code>
+
 ## Motivation
+
+Iterable does not provide bindings for Xamarin and objective C has some method that cannot be converted into C#. This problem was caused by Objective-C letting multiple functions have same parameter types. This binding moves the userId parameter after the NSDictionary launchOptions to avoid that problem.
 
 ## Installation
 
