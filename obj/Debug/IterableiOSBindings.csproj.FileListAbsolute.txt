@@ -1,0 +1,5 @@
+/Users/juyang/IterableIOSBindings/IterableIOSBindings/bin/Debug/IterableiOSBindings.dll
+/Users/juyang/IterableIOSBindings/IterableIOSBindings/bin/Debug/IterableiOSBindings.pdb
+/Users/juyang/IterableIOSBindings/IterableIOSBindings/obj/Debug/IterableiOSBindings.csproj.CoreCompileInputs.cache
+/Users/juyang/IterableIOSBindings/IterableIOSBindings/obj/Debug/IterableiOSBindings.dll
+/Users/juyang/IterableIOSBindings/IterableIOSBindings/obj/Debug/IterableiOSBindings.pdb

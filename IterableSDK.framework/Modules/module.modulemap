@@ -1,0 +1,6 @@
+framework module IterableSDK {
+  umbrella header "IterableSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

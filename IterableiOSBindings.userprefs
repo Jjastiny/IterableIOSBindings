@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Structs.cs">
+    <Files>
+      <File FileName="ApiDefinition.cs" Line="6" Column="30" />
+      <File FileName="obj/Debug/ios/IterableIOSBindings/NSData_NSData_Conversion.g.cs" Line="52" Column="45" />
+      <File FileName="obj/Debug/ios/IterableIOSBindings/IterableAPI.g.cs" Line="853" Column="3" />
+      <File FileName="Structs.cs" Line="21" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
