@@ -16,4 +16,6 @@ At the top of the file there should be a short introduction and/ or overview tha
 Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
 
 ## License
-
+      Apache License
+  Version 2.0, January 2004
+http://www.apache.org/licenses/
