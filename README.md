@@ -8,7 +8,7 @@ This is the iOS xamarin binding library for Iterable SDK.
 
 ## Motivation
 
-Iterable does not provide bindings for Xamarin and objective C has some method that cannot be converted into C#. This problem was caused by Objective-C letting multiple functions have same parameter types. This binding moves the userId parameter after the NSDictionary launchOptions to avoid that problem.
+There wasn't a Iterable binding for Xamarin and objective C has some method that cannot be converted into C#. This problem was caused by Objective-C letting multiple functions have same parameter types. This binding moves the userId parameter after the NSDictionary launchOptions to avoid that problem.
 
 ## Installation
 
